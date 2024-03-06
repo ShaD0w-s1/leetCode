@@ -1,3 +1,0 @@
-impl sort {
-    fn main() {}
-}
